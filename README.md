@@ -22,14 +22,14 @@ This repository contains slidedeck with all icons and some diagrams
 |-------|------------|
 |  [Kubernetes_Icons_Keynote](./slidedeck/Kubernetes_Icons_Keynote.key)  | Apple keynote 09    |
 |  [Kubernetes_Icons_PPTX](./slidedeck/Kubernetes_Icons_PPTX.pptx)  | Microsoft PowerPoint 16    |
-|  [Kubernetes_Icons_GSlide](URL)  | Google Slide    |
+|  [Kubernetes_Icons_GSlide](https://docs.google.com/presentation/d/1Xds7zibJaxgy3rVWEZoawSiL3WtdAyrPS0MYUAzgLiI/edit?usp=sharing)  | Google Slide    |
 |  [Kubernetes_Icons_PDF](./slidedeck/Kubernetes_Icons_PDF.pdf)  |  PDF  |
 
 ## Usage Example
 
 There is icons for each layers of a complete Kubernetes Architecture
 * [Infrastructure components](./png/infrastructure_components)
-* [Control Plane components](./png/controle_plane_components)
+* [Control Plane components](./png/control_plane_components)
 * [Kubernetes Resources](./png/k8s_resources)
 
 #### Kubernetes infrastructure diagrams example
