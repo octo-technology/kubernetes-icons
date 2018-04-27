@@ -6,7 +6,9 @@ This is a way to standardize Kubernetes architecture diagrams for presentation. 
 
 ## How to use this repository
 
-Each icons can be found in png format in [png](png) directory
+Each icons can be found in differents formats
+* [png](png)
+* [svg](svg)
 
 There is 2 types of icons
 
@@ -22,7 +24,7 @@ This repository contains slidedeck with all icons and some diagrams
 |-------|------------|
 |  [Kubernetes_Icons_Keynote](./slidedeck/Kubernetes_Icons_Keynote.key)  | Apple keynote 09    |
 |  [Kubernetes_Icons_PPTX](./slidedeck/Kubernetes_Icons_PPTX.pptx)  | Microsoft PowerPoint 16    |
-|  [Kubernetes_Icons_GSlide](https://docs.google.com/presentation/d/1Xds7zibJaxgy3rVWEZoawSiL3WtdAyrPS0MYUAzgLiI/edit?usp=sharing)  | Google Slide    |
+|  [Kubernetes_Icons_GSlide](https://docs.google.com/presentation/d/1lJ0RHWzEKzd6PFePTpukNqPoTIPrvg25_-VS6bmEHIw/edit?usp=sharing)  | Google Slide    |
 |  [Kubernetes_Icons_PDF](./slidedeck/Kubernetes_Icons_PDF.pdf)  |  PDF  |
 
 ## Usage Example
