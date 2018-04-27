@@ -6,7 +6,9 @@ This is a way to standardize Kubernetes architecture diagrams for presentation. 
 
 ## How to use this repository
 
-Each icons can be found in png format in [png](png) directory
+Each icons can be found in differents formats
+* [png](png)
+* [svg](svg)
 
 There is 2 types of icons
 
